@@ -9,6 +9,6 @@ def percentage(interest_rate, principle):
 # Taking input from users for bath interest rate and principle
 print("Type the expected Interest rate:")
 Int_rate = int(input())
-print("Enter the principle amount:2")
+print("Enter the principle amount:")
 Principle_amount = int(input())
 percentage (Int_rate, Principle_amount)
